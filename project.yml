@@ -100,9 +100,9 @@
     - +:test/**
     - -:test/support
   :source:
-    - subject/**
+    - subject/philo/**
   :include:
-    - subject/** # In simple projects, this entry often duplicates :source
+    - subject/philo/** # In simple projects, this entry often duplicates :source
   :support:
     - test/support
   :libraries: []
